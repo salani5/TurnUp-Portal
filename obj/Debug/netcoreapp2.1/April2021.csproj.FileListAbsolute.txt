@@ -1,0 +1,11 @@
+F:\industry connect\Programs\April2021\April2021\bin\Debug\netcoreapp2.1\April2021.deps.json
+F:\industry connect\Programs\April2021\April2021\bin\Debug\netcoreapp2.1\April2021.runtimeconfig.json
+F:\industry connect\Programs\April2021\April2021\bin\Debug\netcoreapp2.1\April2021.runtimeconfig.dev.json
+F:\industry connect\Programs\April2021\April2021\bin\Debug\netcoreapp2.1\April2021.dll
+F:\industry connect\Programs\April2021\April2021\obj\Debug\netcoreapp2.1\April2021.csprojAssemblyReference.cache
+F:\industry connect\Programs\April2021\April2021\obj\Debug\netcoreapp2.1\April2021.csproj.CoreCompileInputs.cache
+F:\industry connect\Programs\April2021\April2021\obj\Debug\netcoreapp2.1\April2021.AssemblyInfoInputs.cache
+F:\industry connect\Programs\April2021\April2021\obj\Debug\netcoreapp2.1\April2021.AssemblyInfo.cs
+F:\industry connect\Programs\April2021\April2021\bin\Debug\netcoreapp2.1\April2021.pdb
+F:\industry connect\Programs\April2021\April2021\obj\Debug\netcoreapp2.1\April2021.dll
+F:\industry connect\Programs\April2021\April2021\obj\Debug\netcoreapp2.1\April2021.pdb
